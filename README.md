@@ -1,1 +1,1 @@
-# nbcamp-JAVA
+# nbcamp-java-course
